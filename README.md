@@ -1,7 +1,8 @@
-INTECOL_2013_Optimizing
+Bringing Science to Management: using Simulation- and Scenario-Based Approaches to Guide Decision Making in Invasive Species Management
 =======================
 
-INTECOL 2013 London talk
+INTECOL 2013, London
+
 Copyright: Rainer M Krug (Rainer@krugs.de)
 
 Abstract

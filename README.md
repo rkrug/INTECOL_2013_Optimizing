@@ -6,7 +6,7 @@ Copyright: Rainer M Krug (Rainer@krugs.de)
 
 Abstract
 
-Abstract In science, simulation- and scenario-based approaches have been proven to be useful in understanding complex systems and their reaction to changing input parameters. This has been demonstrated for example by climate change models and scenarios which yield reproducible and transparent results. The downside of this approach is the need for substantial computing power and complexity of the tools used.
+In science, simulation- and scenario-based approaches have been proven to be useful in understanding complex systems and their reaction to changing input parameters. This has been demonstrated for example by climate change models and scenarios which yield reproducible and transparent results. The downside of this approach is the need for substantial computing power and complexity of the tools used.
 
 Abstract With the increasing availability of cloud computing, computing power can be re-located from the desktop to “the cloud”, and thus be made available for a wider audience. By building a simple user interface, interacting with complex simulation models in “the cloud”, simulation- and scenario-based approaches can be put at the fingertips of managers and be used to obtain reproducible and transparent results which may be used e.g. in invasive species management.
 

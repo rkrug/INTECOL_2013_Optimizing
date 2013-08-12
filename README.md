@@ -28,3 +28,9 @@ Abstract To date, this model has not yet been translated into a version to be us
 
 Abstract In this talk, I will give an overview over the model developed for the Fynbos and discuss its adaptation for the Drakensberg as well as deployment options.
 
+
+The talk is available at 
+ https://raw.github.com/rkrug/INTECOL_2013_Optimizing/master/RMKrug_Optimising.pdf (10 MB)
+or
+ https://raw.github.com/rkrug/INTECOL_2013_Optimizing/master/RMKrug_Optimising_reduced.pdf (2 MB)
+ 

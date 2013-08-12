@@ -30,7 +30,6 @@ Abstract In this talk, I will give an overview over the model developed for the 
 
 
 The talk is available at 
- https://raw.github.com/rkrug/INTECOL_2013_Optimizing/master/RMKrug_Optimising.pdf (10 MB)
-or
- https://raw.github.com/rkrug/INTECOL_2013_Optimizing/master/RMKrug_Optimising_reduced.pdf (2 MB)
- 
+  https://app.box.com/s/yxr3bhpf87ksi7u9st1m
+  
+  

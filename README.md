@@ -32,4 +32,14 @@ Abstract In this talk, I will give an overview over the model developed for the 
 The talk is available at 
   https://app.box.com/s/yxr3bhpf87ksi7u9st1m
   
+The R packages are available at:
+  https://github.com/rkrug/prioritization
+  https://github.com/rkrug/seedGerm
+  https://github.com/rkrug/fireSim
+  https://github.com/rkrug/seedProd
+  https://github.com/rkrug/seedDisp
+  https://github.com/rkrug/logger
+  
+The final simulation will be available at:  
+  https://github.com/rkrug/asmDrak
   
